@@ -1,0 +1,13 @@
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.exe
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.deps.json
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.runtimeconfig.json
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.runtimeconfig.dev.json
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.dll
+C:\Users\xuand\source\repos\Frist-project\Frist-project\bin\Debug\netcoreapp3.1\Frist-project.pdb
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.csprojAssemblyReference.cache
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.AssemblyInfoInputs.cache
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.AssemblyInfo.cs
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.csproj.CoreCompileInputs.cache
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.dll
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.pdb
+C:\Users\xuand\source\repos\Frist-project\Frist-project\obj\Debug\netcoreapp3.1\Frist-project.genruntimeconfig.cache
